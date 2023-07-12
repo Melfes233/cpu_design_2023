@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jun 27 08:40:38 2023
+# Process ID: 19592
+# Current directory: D:/Study/2023-G2/计算机设计与实践/comp2012/proj_miniRV/proj_single_cycle
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21408 D:\Study\2023-G2\计算机设计与实践\comp2012\proj_miniRV\proj_single_cycle\proj_single_cycle.xpr
+# Log file: D:/Study/2023-G2/计算机设计与实践/comp2012/proj_miniRV/proj_single_cycle/vivado.log
+# Journal file: D:/Study/2023-G2/计算机设计与实践/comp2012/proj_miniRV/proj_single_cycle\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Study/2023-G2/计算机设计与实践/comp2012/proj_miniRV/proj_single_cycle/proj_single_cycle.xpr
+INFO: [Project 1-313] Project file moved from 'D:/new/proj_single_cycle' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'D:/Study/2023-G2/计算机设计与实践/comp2012/proj_miniRV/proj_single_cycle/proj_single_cycle.ip_user_files', nor could it be found using path 'D:/new/proj_single_cycle/proj_single_cycle.ip_user_files'.
+INFO: [Project 1-230] Project 'proj_single_cycle.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:08 . Memory (MB): peak = 882.062 ; gain = 230.016
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 27 10:26:04 2023...

@@ -1,0 +1,16 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              4385000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              4865000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              5305000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              8585000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              9065000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383
+WARNING in miniRV_sim.DUT.Mem_DRAM.inst at time              9505000 ns: 
+Reading from out-of-range address. Max address in miniRV_sim.DUT.Mem_DRAM.inst is       16383

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Jul 10 17:47:55 2023
+# Process ID: 22804
+# Current directory: D:/Study/2023-G2/labs/comp/proj_miniRV/proj_single_cycle/proj_single_cycle.runs/IROM_synth_1
+# Command line: vivado.exe -log IROM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source IROM.tcl
+# Log file: D:/Study/2023-G2/labs/comp/proj_miniRV/proj_single_cycle/proj_single_cycle.runs/IROM_synth_1/IROM.vds
+# Journal file: D:/Study/2023-G2/labs/comp/proj_miniRV/proj_single_cycle/proj_single_cycle.runs/IROM_synth_1\vivado.jou
+#-----------------------------------------------------------
+source IROM.tcl -notrace
